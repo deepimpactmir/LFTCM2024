@@ -242,7 +242,7 @@ Searching the docs for this yields:
   gives us some hints about how Mathlib phrases things.
   `Summable`, `Filter.Tendsto`, `tsum`, `tsum_def`
 
-  Moogle: [unifrom convergence](https://www.moogle.ai/search/raw?q=uniform%20convergence)
+  Moogle: [uniform convergence](https://www.moogle.ai/search/raw?q=uniform%20convergence)
   first few hits are garbage, but `tendstoUniformlyOn_singleton_iff_tendsto` seems to tell us
   that Mathlib calls uniform convergence `TendstoUniformlyOn`.
 
